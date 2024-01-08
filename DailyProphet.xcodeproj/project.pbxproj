@@ -13,6 +13,7 @@
 		16CF75602B4C85FF004F9815 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16CF755E2B4C85FF004F9815 /* Main.storyboard */; };
 		16CF75622B4C8601004F9815 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16CF75612B4C8601004F9815 /* Assets.xcassets */; };
 		16CF75652B4C8601004F9815 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16CF75632B4C8601004F9815 /* LaunchScreen.storyboard */; };
+		16CF756D2B4C865E004F9815 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 16CF756C2B4C865E004F9815 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		16CF755F2B4C85FF004F9815 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		16CF75612B4C8601004F9815 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16CF75642B4C8601004F9815 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		16CF756C2B4C865E004F9815 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				16CF755E2B4C85FF004F9815 /* Main.storyboard */,
 				16CF75612B4C8601004F9815 /* Assets.xcassets */,
 				16CF75632B4C8601004F9815 /* LaunchScreen.storyboard */,
+				16CF756C2B4C865E004F9815 /* harrypotter.mp4 */,
 			);
 			path = DailyProphet;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				16CF755B2B4C85FF004F9815 /* art.scnassets in Resources */,
 				16CF75652B4C8601004F9815 /* LaunchScreen.storyboard in Resources */,
+				16CF756D2B4C865E004F9815 /* harrypotter.mp4 in Resources */,
 				16CF75622B4C8601004F9815 /* Assets.xcassets in Resources */,
 				16CF75602B4C85FF004F9815 /* Main.storyboard in Resources */,
 			);
@@ -300,6 +304,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,6 +335,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
